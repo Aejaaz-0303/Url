@@ -1,1 +1,3 @@
-test
+print("This song will be played if Megna:" , end=" ")
+Megna= input()
+if(Megna == "Lives"):
